@@ -6,6 +6,14 @@ https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
 <br>
 https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 
+# How Can I Help My Kids Learn Python?
+Learning Python is easier than you think. Below is a beginner-friendly Python tutorial you can easily assist your kids with. You can easily teach Python to your kids by following the Python tutorials. Therefore, we provide these Python tutorials for kids with easy-to-follow instructions and explanations to help you guide your kid at their learning pace.
+<br>
+# Keywords and Variables
+
+After completing the simple python tutorial your kids will develop proficiency in the Python framework and eventually about creating and building fun games and projects
+
+
 # Data types
 Every value in Python has a datatype. Since everything is an object in Python programming, data types are classes and variables are instances (object) of these classes. Listed below are some of the most important data types in Python. Int, Float, Complex, List, Tuple, Strings, Set, and Dictionary
 
