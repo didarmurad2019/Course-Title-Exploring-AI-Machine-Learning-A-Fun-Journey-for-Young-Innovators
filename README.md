@@ -21,6 +21,8 @@ Comparison Operators, Logical Operators, Bitwise Operators, Assignment Operators
 <br>
 ​The Python shell can perform the above arithmetic operations because it is an interpreter where you can execute your Python code and commands. The Python shell has many other features, including adding a shell page.
 
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/pythonoperatorsdf8a768b4f-1717015101949-compressed.jpg)
+
 # Functions
 A function is a set of related statements which perform a particular task. This helps us to break our program into small modules which helps a coder to handle the codes when the code size is very large.
 
