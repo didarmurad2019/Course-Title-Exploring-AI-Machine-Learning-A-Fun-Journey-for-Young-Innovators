@@ -88,6 +88,8 @@ Loops repeat a task multiple times. There are two main types:
 
 # While Loop➿ 
 
+![image alt]
+
 
 
 
