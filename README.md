@@ -9,6 +9,8 @@ Python is beginner-friendly and great for young learners.
 Use simple examples, fun projects, and lots of encouragement!
 <br>
 Kids can learn at their own pace using small, hands-on tutorials.
-
+<br>
+(See: Folder Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators
+/Python for Kids/
 
 
