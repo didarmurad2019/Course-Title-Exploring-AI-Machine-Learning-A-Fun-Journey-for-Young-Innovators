@@ -67,3 +67,13 @@ We will create a Dog class, and then use it to make some dog objects.
 ✅ Code:
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Class.PNG)
+
+# What's Happening 🧠?
+<br>
+class Dog: — this is our blueprint for any dog.
+<br>
+__init__ is a special method that runs when we make a new dog. It sets the name and age.
+<br>
+self.name and self.age are data members — they belong to each dog.
+<br>
+bark() and birthday() are methods — they belong to the dog and do actions.
