@@ -80,6 +80,8 @@ Other operator types: Comparison, Logical, Assignment, Identity, and Membership.
 # Functions 🧩 
 <br>
 A function is a set of instructions you can run whenever you want.
+<br>
+Functions help organize code into smaller chunks.
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Function.PNG)
 <br>
