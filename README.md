@@ -15,4 +15,4 @@ See complete detail in the folder "Python for Kids"
 
 # Workshop # 01 – Python & AI in 2 Days 🧠
 # A Creative Coding Bootcamp for Kids (Ages 10–14)🎨 
-See complete work shop contents in the folder "Workshop_1"
+See complete workshop contents in the folder "Workshop_1"
