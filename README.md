@@ -15,6 +15,12 @@ Learning Python is easier than you think. Below is a beginner-friendly Python tu
 
 After completing the simple python tutorial your kids will develop proficiency in the Python framework and eventually about creating and building fun games and projects
 
+| Term            | What It Means                                    |
+| --------------- | ------------------------------------------------ |
+| **Class**       | A recipe or blueprint for creating objects       |
+| **Object**      | A real item made using the class                 |
+| **Method**      | A function that belongs to an object             |
+| **Data member** | A variable that stores information in the object |
 
 # Data types
 Every value in Python has a datatype. Since everything is an object in Python programming, data types are classes and variables are instances (object) of these classes. Listed below are some of the most important data types in Python. Int, Float, Complex, List, Tuple, Strings, Set, and Dictionary
