@@ -11,6 +11,6 @@ Use simple examples, fun projects, and lots of encouragement!
 Kids can learn at their own pace using small, hands-on tutorials.
 <br>
 
-# See: Folder Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/Python for Kids/
+# See complete detail in the folder "Python for Kids"
 
 
