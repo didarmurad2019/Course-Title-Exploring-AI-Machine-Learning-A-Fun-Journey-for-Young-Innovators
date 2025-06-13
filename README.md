@@ -84,31 +84,27 @@ A function is a set of related statements which perform a particular task. This 
 <br>
 # Loops🔁 
 <br>
-Loops repeat a task multiple times. There are two main types:
-
-# While Loop➿ 
-
-![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/While_loop.PNG)
-
-# For Loop🔁 
-
-![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/for_loop.PNG)
-
-# Nested Loops (loop inside a loop)🌀 
-
-# Loops
-<br>
-Loops are nothing but as the name itself suggests, it is a set of instructions that are repeated until a certain condition is reached. In this structure, there is a question which on being asked an action is executed for generating the answer and keeps on repeating the question till you no longer need to act.
+Loops repeat a task multiple times. It is a set of instructions that are repeated until a certain condition is reached. In this structure There are two main types:
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/loop-1717015184529-compressed.jpg)
 
-The different types of loops are as follows:
+# While Loop➿
 <br>
-While Loop: tests the condition before execution of the body of the loop
+Tests the condition before execution of the body of the loop
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/While_loop.PNG)
+
+# For Loop🔁
 <br>
-For Loop: abbreviates the code of the managing loop variable and executes a sequence of statements multiple times
+abbreviates the code of the managing loop variable and executes a sequence of statements multiple times
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/for_loop.PNG)
+
+# Nested Loops (loop inside a loop)🌀
 <br>
 Nested Loops: these are used within other loops
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Nested_loop.PNG)
 
 
 # What Is an Object and a Class 🧱 ?
