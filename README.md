@@ -36,8 +36,20 @@ After completing the simple python tutorial your kids will develop proficiency i
 | **Method**      | A function that belongs to an object             |
 | **Data member** | A variable that stores information in the object |
 
-# Data types
-Every value in Python has a datatype. Since everything is an object in Python programming, data types are classes and variables are instances (object) of these classes. Listed below are some of the most important data types in Python. Int, Float, Complex, List, Tuple, Strings, Set, and Dictionary
+
+# Data Types🧪 
+<br>
+Every value in Python has a data type. Some common ones:
+<br>
+int (whole numbers) → age = 12
+<br>
+float (decimal numbers) → height = 4.5
+<br>
+str (text/strings) → name = "Emma"
+<br>
+list (a group of items) → colors = ["red", "blue"]
+<br>
+bool (True/False) → is_happy = True
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/data-types-1717015081401-compressed.jpg)
 
