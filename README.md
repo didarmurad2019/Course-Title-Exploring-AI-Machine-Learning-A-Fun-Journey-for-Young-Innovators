@@ -6,5 +6,5 @@ https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
 <br>
 https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 <br>
-![image alt](Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/Images
+![](Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/Images
 /loop-1717015184529-compressed.jpg)
