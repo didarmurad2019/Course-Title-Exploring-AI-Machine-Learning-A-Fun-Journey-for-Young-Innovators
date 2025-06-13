@@ -65,3 +65,5 @@ An object is the real cupcake you make by following the recipe!
 We will create a Dog class, and then use it to make some dog objects.
 <br>
 ✅ Code:
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Class.PNG)
