@@ -53,6 +53,24 @@ bool (True/False) → is_happy = True
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/data-types-1717015081401-compressed.jpg)
 
+# Operators ➕ 
+<br>
+Python uses symbols to perform math or comparisons.
+<br>
+🔢 Arithmetic Operators:
+<br>
+
+| Operator | Example  | Result               |
+| -------- | -------- | -------------------- |
+| `+`      | `5 + 3`  | `8` (Addition)       |
+| `-`      | `6 - 2`  | `4` (Subtract)       |
+| `/`      | `8 / 4`  | `2.0` (Divide)       |
+| `*`      | `3 * 2`  | `6` (Multiply)       |
+| `%`      | `5 % 2`  | `1` (Remainder)      |
+| `//`     | `6 // 5` | `1` (Floor Division) |
+| `**`     | `3 ** 2` | `9` (Power)          |
+
+
 # Operators
 Some special symbols are called Operators in Python for carrying out arithmetic or logical computations.
 
