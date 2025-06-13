@@ -1,10 +1,25 @@
 # Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators
 <br>
+Python for Kids (Ages 10–14)🐍
+<br>
+Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–8.
+<br>
+How Can I Help My Kids Learn Python?👨‍👩‍👧‍👦 
+Python is beginner-friendly and great for young learners.
+<br>
+Use simple examples, fun projects, and lots of encouragement!
+<br>
+Kids can learn at their own pace using small, hands-on tutorials.
+
+# Python Basics for Kids✨
+<br>
+Keywords and Variables🗝️
+<br>
+A variable is like a box that stores a value.
+<br>
+
 https://docs.google.com/document/d/1Deg6RhRNaGx-kVhEqo0tehuIiLBxDhDhUEjbJVBZ9DQ/edit?tab=t.0#heading=h.pr22v9a2idb8
 <br>
-https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
-<br>
-https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 
 # How Can I Help My Kids Learn Python?
 Learning Python is easier than you think. Below is a beginner-friendly Python tutorial you can easily assist your kids with. You can easily teach Python to your kids by following the Python tutorials. Therefore, we provide these Python tutorials for kids with easy-to-follow instructions and explanations to help you guide your kid at their learning pace.
@@ -99,3 +114,8 @@ bark() and birthday() are methods — they belong to the dog and do actions.
 | **Method**      | A function that belongs to an object             |
 | **Data member** | A variable that stores information in the object |
 
+# Python coding link in Google colab
+
+https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
+<br>
+https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
