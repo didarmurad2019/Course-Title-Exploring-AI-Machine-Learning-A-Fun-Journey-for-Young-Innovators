@@ -6,5 +6,4 @@ https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
 <br>
 https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 <br>
-![](Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/Images
-/loop-1717015184529-compressed.jpg)
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/tree/main/Images)
