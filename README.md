@@ -10,6 +10,5 @@ Use simple examples, fun projects, and lots of encouragement!
 <br>
 Kids can learn at their own pace using small, hands-on tutorials.
 
-# Python Basics for Kids✨
 
 
