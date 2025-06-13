@@ -81,6 +81,15 @@ Other operator types: Comparison, Logical, Assignment, Identity, and Membership.
 A function is a set of related statements which perform a particular task. This helps us to break our program into small modules which helps a coder to handle the codes when the code size is very large.
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Function.PNG)
+<br>
+# Loops🔁 
+<br>
+Loops repeat a task multiple times. There are two main types:
+
+# While Loop➿ 
+
+
+
 
 # Loops
 <br>
