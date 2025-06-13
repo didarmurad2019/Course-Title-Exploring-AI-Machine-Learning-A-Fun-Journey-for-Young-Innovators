@@ -83,3 +83,11 @@ __init__ is a special method that runs when we make a new dog. It sets the name 
 self.name and self.age are data members — they belong to each dog.
 <br>
 bark() and birthday() are methods — they belong to the dog and do actions.
+
+| Term            | What It Means                                    |
+| --------------- | ------------------------------------------------ |
+| **Class**       | A recipe or blueprint for creating objects       |
+| **Object**      | A real item made using the class                 |
+| **Method**      | A function that belongs to an object             |
+| **Data member** | A variable that stores information in the object |
+
