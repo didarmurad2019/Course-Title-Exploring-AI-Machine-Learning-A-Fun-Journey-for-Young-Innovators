@@ -9,6 +9,8 @@ https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scroll
 # Functions
 A function is a set of related statements which perform a particular task. This helps us to break our program into small modules which helps a coder to handle the codes when the code size is very large.
 
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Function.PNG)
+
 # Loops
 <br>
 Loops are nothing but as the name itself suggests, it is a set of instructions that are repeated until a certain condition is reached. In this structure, there is a question which on being asked an action is executed for generating the answer and keeps on repeating the question till you no longer need to act.
