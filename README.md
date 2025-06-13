@@ -15,6 +15,8 @@ Kids can learn at their own pace using small, hands-on tutorials.
 Keywords and Variables🗝️
 <br>
 A variable is like a box that stores a value.
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/variable.PNG)
 <br>
 A variable is like a box that stores a value.
 
