@@ -10,7 +10,9 @@ Use simple examples, fun projects, and lots of encouragement!
 <br>
 Kids can learn at their own pace using small, hands-on tutorials.
 <br>
+See complete detail in the folder "Python for Kids"
+<br>
 
-# See complete detail in the folder "Python for Kids"
-
-
+# Workshop # 01 – Python & AI in 2 Days 🧠
+# A Creative Coding Bootcamp for Kids (Ages 10–14)🎨 
+See complete work shop contents in the folder "Workshop_1"
