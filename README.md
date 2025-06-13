@@ -1,6 +1,4 @@
-# Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators
-<br>
-Python for Kids (Ages 10–14)🐍
+# Python for Kids (Ages 10–14)🐍
 <br>
 Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–8.
 <br>
