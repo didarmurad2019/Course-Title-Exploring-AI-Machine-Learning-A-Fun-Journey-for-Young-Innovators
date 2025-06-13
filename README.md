@@ -9,7 +9,8 @@ https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scroll
 # Data types
 Every value in Python has a datatype. Since everything is an object in Python programming, data types are classes and variables are instances (object) of these classes. Listed below are some of the most important data types in Python. Int, Float, Complex, List, Tuple, Strings, Set, and Dictionary
 
-![image alt]
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/data-types-1717015081401-compressed.jpg)
+
 # Operators
 Some special symbols are called Operators in Python for carrying out arithmetic or logical computations.
 
