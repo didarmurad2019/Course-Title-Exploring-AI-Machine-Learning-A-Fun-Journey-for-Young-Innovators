@@ -143,6 +143,3 @@ https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
 <br>
 https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 
-# Google docs incuding Python & AI in 2 Days: A Creative Coding Bootcamp for Kids
-https://docs.google.com/document/d/1Deg6RhRNaGx-kVhEqo0tehuIiLBxDhDhUEjbJVBZ9DQ/edit?tab=t.0#heading=h.pr22v9a2idb8
-<br>
