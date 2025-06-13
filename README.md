@@ -88,7 +88,7 @@ Loops repeat a task multiple times. There are two main types:
 
 # While Loop➿ 
 
-![image alt]
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/While_loop.PNG)
 
 
 
