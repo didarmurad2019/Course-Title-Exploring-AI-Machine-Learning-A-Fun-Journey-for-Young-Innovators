@@ -90,8 +90,11 @@ Loops repeat a task multiple times. There are two main types:
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/While_loop.PNG)
 
+# For Loop🔁 
 
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/for_loop.PNG)
 
+# Nested Loops (loop inside a loop)🌀 
 
 # Loops
 <br>
