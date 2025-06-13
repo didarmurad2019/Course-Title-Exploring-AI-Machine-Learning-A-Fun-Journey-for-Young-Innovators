@@ -6,6 +6,11 @@ https://colab.research.google.com/drive/1bFIsCrKCSVmPW55OEUFLOiC9JegE6pfv
 <br>
 https://colab.research.google.com/drive/1sDHlP7VmJA13kC-FGThwdw-H20RuiQev#scrollTo=DBhgHzq9hNta
 
+# Operators
+Some special symbols are called Operators in Python for carrying out arithmetic or logical computations.
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/pythonoperatorsdf8a768b4f-1717015101949-compressed.jpg)
+
 # Arithmetic Operators:
 <br>
 Operator
@@ -20,8 +25,6 @@ Like the Arithmetic Operators, we have some other operators with some specialize
 Comparison Operators, Logical Operators, Bitwise Operators, Assignment Operators, Identity Operators, and Membership Operators.
 <br>
 ​The Python shell can perform the above arithmetic operations because it is an interpreter where you can execute your Python code and commands. The Python shell has many other features, including adding a shell page.
-
-![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/pythonoperatorsdf8a768b4f-1717015101949-compressed.jpg)
 
 # Functions
 A function is a set of related statements which perform a particular task. This helps us to break our program into small modules which helps a coder to handle the codes when the code size is very large.
