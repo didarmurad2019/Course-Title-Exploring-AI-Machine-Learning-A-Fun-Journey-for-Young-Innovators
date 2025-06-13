@@ -51,3 +51,17 @@ A function is a set of related statements which perform a particular task. This 
 Loops are nothing but as the name itself suggests, it is a set of instructions that are repeated until a certain condition is reached. In this structure, there is a question which on being asked an action is executed for generating the answer and keeps on repeating the question till you no longer need to act.
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/loop-1717015184529-compressed.jpg)
+
+# What is an Object and a Class?🎯 
+<br>
+💡 Imagine this:
+<br>
+A class is like a blueprint for making something — like a recipe for baking cupcakes. 🍰
+<br>
+An object is the real cupcake you make by following the recipe!
+<br>
+🧱 Example: Let's Build a Dog Class!
+🐶 Step-by-step:
+We will create a Dog class, and then use it to make some dog objects.
+<br>
+✅ Code:
