@@ -80,13 +80,9 @@ For Loop: abbreviates the code of the managing loop variable and executes a sequ
 <br>
 Nested Loops: these are used within other loops
 
-# What is an Object and a Class?🎯 
-<br>
-💡 Imagine this:
-<br>
-A class is like a blueprint for making something — like a recipe for baking cupcakes. 🍰
-<br>
-An object is the real cupcake you make by following the recipe!
+
+# What Is an Object and a Class 🧱 ?
+💡 Think of a class as a recipe and an object as the real cupcake made from that recipe! 🍰
 <br>
 🧱 Example: Let's Build a Dog Class!
 🐶 Step-by-step:
