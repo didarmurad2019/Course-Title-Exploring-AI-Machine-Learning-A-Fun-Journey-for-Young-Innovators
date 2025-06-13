@@ -71,23 +71,9 @@ Python uses symbols to perform math or comparisons.
 | `**`     | `3 ** 2` | `9` (Power)          |
 
 
-# Operators
-Some special symbols are called Operators in Python for carrying out arithmetic or logical computations.
-
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/pythonoperatorsdf8a768b4f-1717015101949-compressed.jpg)
-
-# Arithmetic Operators:
 <br>
-Operator
-<br>
-Example
-<br>
-5+3 = 8(addition)
-6-2 = 4(subtraction) / 8/4 = 2(division)
-3*2 = 6(multiplication) % 5%2 = 1(gives the remainder of 5/2) // 6//5 = 1(Floor division - division that results in the whole number adjusted to the left in the number line) ** 3**2 = 9(3 to the power 2)
-Like the Arithmetic Operators, we have some other operators with some specialized functions. Some of the most important ones are mentioned below.
-<br>
-Comparison Operators, Logical Operators, Bitwise Operators, Assignment Operators, Identity Operators, and Membership Operators.
+Other operator types: Comparison, Logical, Assignment, Identity, and Membership.
 <br>
 ​The Python shell can perform the above arithmetic operations because it is an interpreter where you can execute your Python code and commands. The Python shell has many other features, including adding a shell page.
 
