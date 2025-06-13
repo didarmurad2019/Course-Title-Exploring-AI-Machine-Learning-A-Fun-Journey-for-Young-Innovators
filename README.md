@@ -58,6 +58,14 @@ Loops are nothing but as the name itself suggests, it is a set of instructions t
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/loop-1717015184529-compressed.jpg)
 
+The different types of loops are as follows:
+<br>
+While Loop: tests the condition before execution of the body of the loop
+<br>
+For Loop: abbreviates the code of the managing loop variable and executes a sequence of statements multiple times
+<br>
+Nested Loops: these are used within other loops
+
 # What is an Object and a Class?🎯 
 <br>
 💡 Imagine this:
