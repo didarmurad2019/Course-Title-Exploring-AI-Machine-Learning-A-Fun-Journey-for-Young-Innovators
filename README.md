@@ -17,11 +17,11 @@ Kids can learn at their own pace with short, hands-on tutorials.
 <br>
 👉 For complete details, check the folder: “Python for Kids”
 
-# BootCamp – Python & AI in 10 Days🧠 
+# BootCamp – Python & AI/ML in 10 Days🧠 
 <br>
 A Creative Coding Bootcamp for Kids (Ages 10–14) 🎨
 <br>
 Explore coding and artificial intelligence in a fun and interactive way!
 <br>
-👉 See full workshop content in the folder: “Bootcamp-Grade-(6-8)”
+👉 See full workshop content in the folder: “Bootcamp-Grade-(6-8)” and “Bootcamp-Grade-(9-12)”  
 
