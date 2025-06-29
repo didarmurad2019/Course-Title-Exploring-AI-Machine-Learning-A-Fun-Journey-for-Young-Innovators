@@ -19,7 +19,7 @@ Kids can learn at their own pace with short, hands-on tutorials.
 
 # BootCamp – Python & AI/ML 🧠 
 <br>
-A Creative Coding Bootcamp for Kids (Ages 10–14) 🎨
+A Creative Coding Bootcamp for Kids 🎨
 <br>
 Explore coding and artificial intelligence in a fun and interactive way!
 <br>
