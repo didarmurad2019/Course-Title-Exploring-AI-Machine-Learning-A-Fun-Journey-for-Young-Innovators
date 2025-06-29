@@ -17,7 +17,7 @@ Kids can learn at their own pace with short, hands-on tutorials.
 <br>
 👉 For complete details, check the folder: “Python for Kids”
 
-# BootCamp – Python & AI in 6 Days🧠 
+# BootCamp – Python & AI in 10 Days🧠 
 <br>
 A Creative Coding Bootcamp for Kids (Ages 10–14) 🎨
 <br>
