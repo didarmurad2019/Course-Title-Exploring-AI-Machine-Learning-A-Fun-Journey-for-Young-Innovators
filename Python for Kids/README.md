@@ -1,6 +1,6 @@
-# Python for Kids (Ages 10–14)🐍
+# Python for Kids Grades-(6-12)🐍
 <br>
-Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–8.
+Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–12.
 <br>
 How Can I Help My Kids Learn Python?👨‍👩‍👧‍👦 
 <br>
