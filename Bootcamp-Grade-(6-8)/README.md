@@ -10,3 +10,5 @@ Our carefully crafted 10-days curriculum introduces students to AI/ML through in
 Send request by clicking here:
 <br>
 https://docs.google.com/document/d/1bWgv8vw5ILmYw-oG_j_NNwFuUIjsa9BP4eFO46qqD6M/edit?tab=t.0#heading=h.bneeb8otnvs5
+<br>
+https://docs.google.com/document/d/1PBkcgq1HSK4ETzTji8t_lq9hDtlIy3qCkpIU0B13k1o/edit?tab=t.0
