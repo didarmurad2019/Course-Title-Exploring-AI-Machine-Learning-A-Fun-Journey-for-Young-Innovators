@@ -23,5 +23,7 @@ A Creative Coding Bootcamp for Kids (Ages 10–14) 🎨
 <br>
 Explore coding and artificial intelligence in a fun and interactive way!
 <br>
-👉 See full workshop content in the folder: “Bootcamp-Grade-(6-8)” and “Bootcamp-Grade-(9-12)”  
+👉 See full workshop content in the folder: 
+
+# Bootcamp-Grade-(6-8) and Bootcamp-Grade-(9-12) 
 
