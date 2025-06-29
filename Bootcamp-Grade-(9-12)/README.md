@@ -9,4 +9,6 @@ Our carefully crafted 24-days curriculum introduces students to AI/ML through in
 Send request for onward contents by clicking here:
 <br>
 https://docs.google.com/document/d/1ez0NOAtxunQJ1oVKvQyLK0CaE25G3unFjRv-33Z9ppg/edit?tab=t.0
+<br>
+https://docs.google.com/document/d/1PBkcgq1HSK4ETzTji8t_lq9hDtlIy3qCkpIU0B13k1o/edit?tab=t.0
 
