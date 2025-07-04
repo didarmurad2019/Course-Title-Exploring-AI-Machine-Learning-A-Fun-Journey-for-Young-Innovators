@@ -1,5 +1,5 @@
 # 20-Days AI/ML Summer Camp
-For Students in Grades 6-9 (Age: 10-15)
+For Students in Grades 6-9 (Age: 10-15 years)
 <br>
 Empower your child with a competitive edge through our intensive AI/ML bootcamp, led by Global Research Community experts—including Principal and Senior Scientists—with a special guest lecture by our Chief Scientist/Technologist. Live online sessions and hands-on projects included!
 
