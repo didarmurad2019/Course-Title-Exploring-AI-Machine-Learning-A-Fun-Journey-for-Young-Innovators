@@ -13,6 +13,8 @@ Kids can learn at their own pace using small, hands-on tutorials.
 # Python Basics for Kids✨
 <br>
 Printing Text
+
+![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Hellow_world.PNG)
 <br>
 print("Hello, world!")
 <br>
