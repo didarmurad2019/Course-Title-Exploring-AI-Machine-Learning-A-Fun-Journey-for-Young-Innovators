@@ -16,8 +16,6 @@ Printing Text
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/Hellow_world.PNG)
 <br>
-print("Hello, world!")
-<br>
 Keywords and Variables🗝️
 <br>
 A variable is like a box that stores a value/information.
