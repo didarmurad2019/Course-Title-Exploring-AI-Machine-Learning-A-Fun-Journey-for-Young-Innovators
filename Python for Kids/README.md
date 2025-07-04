@@ -22,7 +22,6 @@ A variable is like a box that stores a value/information.
 
 ![image alt](https://github.com/didarmurad2019/Exploring-AI-Machine-Learning-A-Fun-Journey-for-Young-Innovators/blob/main/Images/variable.PNG)
 <br>
-A variable is like a box that stores a value.
 
 # How Can I Help My Kids Learn Python?
 Learning Python is easier than you think. Below is a beginner-friendly Python tutorial you can easily assist your kids with. You can easily teach Python to your kids by following the Python tutorials. Therefore, we provide these Python tutorials for kids with easy-to-follow instructions and explanations to help you guide your kid at their learning pace.
