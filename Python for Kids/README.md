@@ -1,9 +1,5 @@
 # Python for Kids Grades-(6-9)🐍
 <br>
-Printing Text
-<br>
-print("Hello, world!")
-<br>
 Welcome! Python is one of the easiest and most fun programming languages to learn. If you're a parent or teacher, this guide will help you introduce coding to kids in grades 6–9.
 <br>
 How Can I Help My Kids Learn Python?👨‍👩‍👧‍👦 
@@ -15,6 +11,10 @@ Use simple examples, fun projects, and lots of encouragement!
 Kids can learn at their own pace using small, hands-on tutorials.
 
 # Python Basics for Kids✨
+<br>
+Printing Text
+<br>
+print("Hello, world!")
 <br>
 Keywords and Variables🗝️
 <br>
