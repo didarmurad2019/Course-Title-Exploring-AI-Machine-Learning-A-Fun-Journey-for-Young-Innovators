@@ -1,0 +1,62 @@
+import turtle       # Import turtle for drawing graphics
+import time         # Import time to add delays (animation effect)
+
+# Set up the screen
+screen = turtle.Screen()                # Create the drawing window
+screen.bgcolor("lightgreen")            # Set background color to light green (like a field)
+screen.setup(width=800, height=600)     # Set screen size
+
+# Function to draw a stick boy
+def draw_boy(t, x, y, color):
+    t.penup()
+    t.goto(x, y)        # Move to starting position
+    t.color(color)      # Set the color for the boy
+    t.pendown()
+    t.circle(10)        # Draw head (circle)
+    
+    t.right(90)
+    t.forward(20)       # Draw body
+    
+    t.left(45)
+    t.forward(15)       # Left leg
+    t.backward(15)
+    
+    t.right(90)
+    t.forward(15)       # Right leg
+    t.backward(15)
+    
+    t.left(45)
+    t.backward(10)      # Go up a bit to draw arms
+    
+    t.left(45)
+    t.forward(15)       # Left arm
+    t.backward(15)
+    
+    t.right(90)
+    t.forward(15)       # Right arm
+    t.hideturtle()      # Hide turtle after drawing
+
+# Draw boy 1 (left side, blue shirt)
+boy1 = turtle.Turtle()
+draw_boy(boy1, -200, -100, "blue")    # Position: x=-200, y=-100
+
+# Draw boy 2 (right side, red shirt)
+boy2 = turtle.Turtle()
+draw_boy(boy2, 200, -100, "red")      # Position: x=200, y=-100
+
+# Create the football
+ball = turtle.Turtle()
+ball.shape("circle")       # Make it a circle
+ball.color("black")        # Black color like a real soccer ball
+ball.penup()
+ball.goto(-180, -115)      # Start near boy1 (blue)
+
+# Animate the ball flying toward boy2
+for _ in range(50):                   # Repeat 50 times
+    x = ball.xcor()                   # Get current x position
+    y = ball.ycor()                   # Get current y position
+    ball.goto(x + 8, y + 0.5)         # Move ball slightly right and upward
+    time.sleep(0.02)                  # Pause to create animation effect
+
+ball.hideturtle()       # Hide the ball after it's done moving
+turtle.done()           # Keep the window open
