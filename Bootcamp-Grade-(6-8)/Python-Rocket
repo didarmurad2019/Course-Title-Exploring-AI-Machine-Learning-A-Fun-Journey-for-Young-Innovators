@@ -1,32 +1,32 @@
-import turtle
-import time
+import turtle        # Import the turtle graphics library for drawing
+import time          # Import time module to add delays in animation
 
 # Set up screen
-screen = turtle.Screen()
-screen.bgcolor("skyblue")
+screen = turtle.Screen()       # Create a drawing window
+screen.bgcolor("skyblue")      # Set the background color to sky blue (like the sky)
 
 # Create rocket
-rocket = turtle.Turtle()
-rocket.shape("triangle")
-rocket.color("red")
-rocket.penup()
-rocket.goto(0, -150)
-rocket.setheading(90)
+rocket = turtle.Turtle()       # Create a turtle object named 'rocket'
+rocket.shape("triangle")       # Set the rocket's shape to triangle (looks like a rocket)
+rocket.color("red")            # Set the rocket's color to red
+rocket.penup()                 # Lift the pen so the rocket doesn't draw lines
+rocket.goto(0, -150)           # Position the rocket at the bottom center of the screen
+rocket.setheading(90)          # Point the rocket straight up (90 degrees)
 
 # Flame for rocket
-flame = turtle.Turtle()
-flame.shape("circle")
-flame.color("orange")
-flame.penup()
-flame.goto(0, -170)
+flame = turtle.Turtle()        # Create another turtle for the flame
+flame.shape("circle")          # Set the flame shape to a circle
+flame.color("orange")          # Set the flame color to orange
+flame.penup()                  # Lift the pen so no drawing happens
+flame.goto(0, -170)            # Position the flame just below the rocket
 
 # Animation loop
-for i in range(100):
-    rocket.sety(rocket.ycor() + 2)
-    flame.sety(rocket.ycor() - 20)
-    time.sleep(0.03)
+for i in range(100):                         # Repeat 100 times to create movement
+    rocket.sety(rocket.ycor() + 2)           # Move the rocket up slightly
+    flame.sety(rocket.ycor() - 20)           # Keep the flame below the rocket
+    time.sleep(0.03)                         # Pause for a short time to slow down the animation
 
 # Hide flame after flying
-flame.hideturtle()
+flame.hideturtle()           # Hide the flame after rocket has finished flying
 
-turtle.done()
+turtle.done()                # Keep the window open after animation finishes
