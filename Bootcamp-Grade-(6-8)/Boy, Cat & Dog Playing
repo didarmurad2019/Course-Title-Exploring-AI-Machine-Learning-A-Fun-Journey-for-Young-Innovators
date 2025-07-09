@@ -1,0 +1,20 @@
+🧒🐱🐶 Code with Comments — Boy, Cat & Dog Playing
+import turtle          # Import the turtle graphics module
+import random          # For random movements
+import time            # To add delays between actions
+
+# Set up the screen
+screen = turtle.Screen()          # Create the main window
+screen.bgcolor("lightblue")       # Set background color
+screen.setup(width=700, height=500)  # Set screen size
+
+# Create the boy turtle (blue circle)
+boy = turtle.Turtle()
+boy.shape("circle")               # Use circle shape to represent boy
+boy.color("blue")                 # Set color to blue
+boy.penup()                       # Lift pen to avoid drawing lines
+boy.goto(-200, -100)              # Starting position
+
+# Create the cat turtle (orange square)
+cat = turtle.Turtle()
+cat.shape("square
