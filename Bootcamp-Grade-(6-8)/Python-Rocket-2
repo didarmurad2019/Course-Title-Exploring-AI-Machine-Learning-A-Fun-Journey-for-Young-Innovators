@@ -1,0 +1,22 @@
+import turtle         # Import the turtle graphics library
+import time           # Import time to create delays
+
+# Set up screen
+screen = turtle.Screen()        # Create a drawing window
+screen.bgcolor("skyblue")       # Set the background color to sky blue
+# screen.title("Rocket Flying") # Optional: Set window title (doesn't work on Trinket)
+
+# Create rocket as triangle
+rocket = turtle.Turtle()        # Create a turtle object called rocket
+rocket.shape("triangle")        # Set the shape to triangle (looks like a rocket)
+rocket.color("red")             # Set the rocket's color to red
+rocket.penup()                  # Lift the pen so it doesn't draw a line
+rocket.goto(0, -150)            # Move the rocket to the bottom center of the screen
+rocket.setheading(90)           # Point the rocket straight up (90 degrees)
+
+# Animation: rocket flies up
+for _ in range(100):            # Repeat 100 times
+    rocket.forward(5)           # Move rocket forward (upward)
+    time.sleep(0.03)            # Wait for 0.03 seconds (smooth animation)
+
+turtle.done()                   # Finish and keep the window open
