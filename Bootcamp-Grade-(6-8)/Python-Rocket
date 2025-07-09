@@ -1,0 +1,32 @@
+import turtle
+import time
+
+# Set up screen
+screen = turtle.Screen()
+screen.bgcolor("skyblue")
+
+# Create rocket
+rocket = turtle.Turtle()
+rocket.shape("triangle")
+rocket.color("red")
+rocket.penup()
+rocket.goto(0, -150)
+rocket.setheading(90)
+
+# Flame for rocket
+flame = turtle.Turtle()
+flame.shape("circle")
+flame.color("orange")
+flame.penup()
+flame.goto(0, -170)
+
+# Animation loop
+for i in range(100):
+    rocket.sety(rocket.ycor() + 2)
+    flame.sety(rocket.ycor() - 20)
+    time.sleep(0.03)
+
+# Hide flame after flying
+flame.hideturtle()
+
+turtle.done()
