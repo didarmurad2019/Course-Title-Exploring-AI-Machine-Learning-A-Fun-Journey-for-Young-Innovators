@@ -1,0 +1,31 @@
+import turtle        # Import the turtle module for graphics
+import random        # Import random to move turtles randomly
+import time          # Import time to create delays (like countdown)
+
+# Set up the screen
+screen = turtle.Screen()              # Create the drawing window
+screen.bgcolor("lightblue")           # Set background color to light blue
+screen.setup(width=700, height=400)   # Set window size
+
+# Draw the finish line
+finish_line = turtle.Turtle()         # Create a turtle to draw the finish line
+finish_line.penup()                   # Lift pen to move without drawing
+finish_line.goto(250, 150)            # Go to the top of the finish line
+finish_line.pendown()                 # Put pen down to start drawing
+finish_line.right(90)                 # Turn downward
+finish_line.forward(300)              # Draw the vertical finish line
+finish_line.hideturtle()              # Hide the turtle (line drawer)
+
+# Create first turtle (red)
+t1 = turtle.Turtle()                  # Create turtle 1
+t1.shape("turtle")                    # Set turtle shape
+t1.color("red")                       # Set turtle color
+t1.penup()                            # Don't draw while moving
+t1.goto(-250, 50)                     # Starting position (left side)
+
+# Create second turtle (green)
+t2 = turtle.Turtle()                  # Create turtle 2
+t2.shape("turtle")                    # Set turtle shape
+t2.color("green")                     # Set turtle color
+t2.penup()                            # Don't draw while moving
+t2.goto(-250, -50)                    # Starting position (lower row)
