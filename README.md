@@ -25,5 +25,5 @@ Explore coding and artificial intelligence in a fun and interactive way!
 <br>
 👉 See full workshop content in the folders 
 <br>
-Bootcamp-Grade-(6-8) and Bootcamp-Grade-(9-12) 
+Bootcamp-Grade-(6-10) and Bootcamp-Grade-(11-12) 
 
